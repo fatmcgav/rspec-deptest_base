@@ -1,0 +1,4 @@
+---
+fixtures:
+  symlinks:
+    deptest_base: "#{source_dir}"
